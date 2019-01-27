@@ -1,0 +1,9 @@
+# KiCAD trash files.
+*.bck
+*bak
+*tmp
+
+# Garbage files.
+.#*
+*.swp
+*~
