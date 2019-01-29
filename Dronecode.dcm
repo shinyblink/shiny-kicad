@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CAN
+D Dronecode CAN connector
+K dronecode can
+F https://wiki.dronecode.org/workgroup/connectors/start#can
+$ENDCMP
+#
+#End Doc Library
